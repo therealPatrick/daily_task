@@ -1,6 +1,69 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/patrickmshangala/Desktop/daily_task/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/patrickmshangala/Desktop/daily_task/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/patrickmshangala/Desktop/daily_task/app/helpers/activity_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/patrickmshangala/Desktop/daily_task/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/patrickmshangala/Desktop/daily_task/app/models/account.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/patrickmshangala/Desktop/daily_task/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
@@ -13,6 +76,35 @@
       },
       "/Users/patrickmshangala/Desktop/daily_task/app/channels/application_cable/connection.rb": {
         "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/patrickmshangala/Desktop/daily_task/app/controllers/accounts_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
           0,
           0,
           0,
@@ -53,46 +145,6 @@
         "branches": {
         }
       },
-      "/Users/patrickmshangala/Desktop/daily_task/app/helpers/activity_helper.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/patrickmshangala/Desktop/daily_task/app/helpers/application_helper.rb": {
-        "lines": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
       "/Users/patrickmshangala/Desktop/daily_task/app/jobs/application_job.rb": {
         "lines": [
           0,
@@ -115,38 +167,8 @@
         ],
         "branches": {
         }
-      },
-      "/Users/patrickmshangala/Desktop/daily_task/app/models/account.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/patrickmshangala/Desktop/daily_task/app/models/application_record.rb": {
-        "lines": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/patrickmshangala/Desktop/daily_task/app/models/user.rb": {
-        "lines": [
-          0,
-          null,
-          null,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1710071197
+    "timestamp": 1710099286
   }
 }
