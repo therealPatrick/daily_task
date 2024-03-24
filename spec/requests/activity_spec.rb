@@ -1,6 +1,10 @@
 require 'rails_helper'
 
 RSpec.describe "Activities", type: :request do
+  include RequestMacros # Assuming you have included the RequestMacros module in your Rails helper
+
+  login_user
+
   describe "GET /mine" do
     it "returns http success" do
       get "/activity/mine"
@@ -14,5 +18,4 @@ RSpec.describe "Activities", type: :request do
       expect(response).to have_http_status(:success)
     end
   end
-
 end
