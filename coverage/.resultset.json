@@ -215,8 +215,29 @@
         "branches": {
         }
       },
+      "/Users/patrickmshangala/Desktop/daily_task/app/models/role.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/Users/patrickmshangala/Desktop/daily_task/app/models/user.rb": {
         "lines": [
+          0,
           0,
           0,
           null,
@@ -229,6 +250,6 @@
         }
       }
     },
-    "timestamp": 1711286976
+    "timestamp": 1711791472
   }
 }
